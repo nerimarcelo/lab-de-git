@@ -26,7 +26,7 @@ git push origin TAG
 ```
 
 ---
-
+```bash
 # 1. Trabalhe na branch de correção
 git switch -c fix/ldap-auth-bug
 
@@ -42,3 +42,4 @@ git pull origin main          # Sincronize
 git tag -a v1.0.1 -m "fix: timeout LDAP"  # Crie tag
 git push origin main          # Envie código
 git push origin v1.0.1        # Envie tag
+```

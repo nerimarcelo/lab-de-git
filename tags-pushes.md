@@ -22,7 +22,8 @@ git push origin main
 
 5) Tag
 ```bash
-git push origin TAG```
+git push origin TAG
+```
 
 ---
 

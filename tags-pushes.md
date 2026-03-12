@@ -43,3 +43,7 @@ git tag -a v1.0.1 -m "fix: timeout LDAP"  # Crie tag
 git push origin main          # Envie código
 git push origin v1.0.1        # Envie tag
 ```
+
+---
+
+`commit > tag > push > push tag`
